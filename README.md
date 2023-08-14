@@ -1,4 +1,4 @@
-# AWS-GenAI-Foundations-slides
+# AWS GenAI Foundations - slides content
 
 To enable a faster access, I have compiled of of the PDS slides of the official AWS workshop here.
 
