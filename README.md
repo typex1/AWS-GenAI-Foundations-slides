@@ -10,9 +10,14 @@ Official slides path in GitHub: https://github.com/aws-samples/sagemaker-distrib
 
 Again for fast access, here is a link to retrieve all of the Jupyter notebooks (.ipynb files) in the above source repository:
 
-* Chapter 1: https://github.com/aws/amazon-sagemaker-examples/blob/main/introduction_to_amazon_algorithms/jumpstart-foundation-models/text-generation-falcon.ipynb 
-* 2: https://github.com/aws-samples/sagemaker-distributed-training-workshop/blob/main/10_llm_eval/Falcon40B_ROUGE.ipynb
-* 3: https://github.com/aws/amazon-sagemaker-examples/blob/main/introduction_to_amazon_algorithms/jumpstart-foundation-models/domain-adaption-finetuning-gpt-j-6b.ipynb
-* 4 and 5: https://github.com/aws/amazon-sagemaker-examples/blob/ea725cfa0aa8a0527ff5c4cba2c1470f8262df74/training/distributed_training/pytorch/model_parallel/gpt2/smp-train-gpt-sharded-data-parallel.ipynb
-* 6: https://github.com/aws-samples/sagemaker-distributed-training-workshop/blob/main/9_rlhf/RLHF_locally.ipynb 
-* 7: https://github.com/aws/amazon-sagemaker-examples/blob/main/inference/nlp/realtime/llm/bloom_176b/djl_deepspeed_deploy.ipynb 
+* Part 1: https://github.com/aws/amazon-sagemaker-examples/blob/main/introduction_to_amazon_algorithms/jumpstart-foundation-models/text-generation-falcon.ipynb
+  
+* Part 2: https://github.com/aws-samples/sagemaker-distributed-training-workshop/blob/main/10_llm_eval/Falcon40B_ROUGE.ipynb
+
+* Part 3: https://github.com/aws/amazon-sagemaker-examples/blob/main/introduction_to_amazon_algorithms/jumpstart-foundation-models/domain-adaption-finetuning-gpt-j-6b.ipynb
+
+* Parts 4 and 5: https://github.com/aws/amazon-sagemaker-examples/blob/ea725cfa0aa8a0527ff5c4cba2c1470f8262df74/training/distributed_training/pytorch/model_parallel/gpt2/smp-train-gpt-sharded-data-parallel.ipynb
+
+* Part 6: https://github.com/aws-samples/sagemaker-distributed-training-workshop/blob/main/9_rlhf/RLHF_locally.ipynb 
+
+* Part 7: https://github.com/aws/amazon-sagemaker-examples/blob/main/inference/nlp/realtime/llm/bloom_176b/djl_deepspeed_deploy.ipynb 
