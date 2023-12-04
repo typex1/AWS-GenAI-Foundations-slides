@@ -1,4 +1,4 @@
-# AWS GenAI Foundations - slides content
+# AWS GenAI Foundations - slides and video content
 
 To enable a faster access, I have compiled the PDF slides of the official AWS workshop here (see parts 1 to 7 in above list).
 
